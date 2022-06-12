@@ -5,9 +5,9 @@
 <hr />
 Hi, I'm Noel Mallari 🙋‍♂️ Full-Stack Web & Mobile App Developer based in the Philippines.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Edward+Fernandez;Javascript+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234187FF&size=22&lines=I'm+Noel+Mallari;Web+Enthusiast;UI%2FUX+Design+Engineer)](https://git.io/typing-svg)
 
-[![](https://img.shields.io/badge/Gmail-wardvisual@gmail.com-red)](mailto:wardvisual@gmail.com) <img src="https://komarev.com/ghpvc/?username=your-github-wardvisual&style=flat-square" alt="Edward Fernandez" />
+[![](https://img.shields.io/badge/Gmail-mallarinoel00@gmail.com-red)](mailto:mallarinoel00@gmail.com) <img src="https://komarev.com/ghpvc/?username=your-github-namcodes&style=flat-square" alt="Noel Mallari" />
 <br />
 
 ### Current Status Quo: ♨
