@@ -37,8 +37,9 @@
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="#" target="_blank"><img src="https://imgs.search.brave.com/dPvU85gATgtr4mMF2du--Rx3zwl8sze5U3TwQDAOpD8/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE4L0lT/T19DJTJCJTJCX0xv/Z28uc3ZnLzUxMnB4/LUlTT19DJTJCJTJC/X0xvZ28uc3ZnLnBu/Zw" alt="c++" width="40" height="40"/></a>
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://imgs.search.brave.com/dPvU85gATgtr4mMF2du--Rx3zwl8sze5U3TwQDAOpD8/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE4L0lT/T19DJTJCJTJCX0xv/Z28uc3ZnLzUxMnB4/LUlTT19DJTJCJTJC/X0xvZ28uc3ZnLnBu/Zw" alt="c++" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com/Download" target="_blank"> <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"  alt="vscode" width="40" height="40" />
+  <a href="https://php.net" target="_blank"> <img src="https://www.php.net/images/logos/php-logo-white.svg"  alt="php" width="40" height="40" />
 </p>
   
   
