@@ -10,11 +10,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Contact Tracing App](https://facebook.com/)**
+- 🔭 I’m currently working on **Ultimate School System**
 
 - 🌱 I’m currently learning **MERN Stacks.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at **[My Projects Collections](https://facebook.com)**
 
@@ -45,7 +45,7 @@
   
 <p align="center">
     <a href="https://github.com/namcodes/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="namcodes streak" src="https://github-readme-streak-stats.herokuapp.com/?user=namcodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img alt="namcodes streak" src="https://github-readme-streak-stats.herokuapp.com/?user=namcodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -65,6 +65,3 @@
 <a href="https://github.com/namcodes/github-readme-activity-graph"><img alt="Noel Mallari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=namcodes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
-
-<h2 align="center">Thank You for reading!</h2>
