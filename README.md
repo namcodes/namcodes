@@ -48,26 +48,18 @@
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=namcodes&langs_count=15&count_private=true&layout=compact&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
 <img alt="top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namcodes&langs_count=20&count_private=true&layout=compact&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
 </a>
 <a href="[https://github.com/namcodes/github-readme-stats](https://github-readme-stats.vercel.app/api?username=namcodes&langs_count=15&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0)">
 <img alt="Noel Mallari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=namcodes&langs_count=15&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0" />
-</a> 
-    <a href="https://github.com/namcodes/github-readme-streak-stats">
-        <img alt="namcodes streak" src="https://github-readme-streak-stats.herokuapp.com/?user=namcodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-  <br/>
-      
-      
-      
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
+</a><a href="https://github.com/namcodes/github-readme-streak-stats">
+    <img alt="namcodes streak" src="https://github-readme-streak-stats.herokuapp.com/?user=namcodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</a>
 
 <br/>
+<br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 
 <a href="https://github.com/namcodes/github-readme-activity-graph"><img alt="Noel Mallari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=namcodes&bg_color=0D1117&theme=black-ice&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
