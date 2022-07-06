@@ -43,25 +43,23 @@
 </p>
   
   
-<p align="center">
-    <a href="https://github.com/namcodes/github-readme-streak-stats">
-        <img alt="namcodes streak" src="https://github-readme-streak-stats.herokuapp.com/?user=namcodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
 
 ## 📊 My Github Stats
 
   <br/>
-  <div>
-          <a href="[https://github.com/namcodes/github-readme-stats](https://github-readme-stats.vercel.app/api?username=namcodes&langs_count=8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)">
-<img alt="Noel Mallari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=namcodes&langs_count=8&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-          </a>
-             <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=namcodes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
-<img alt="top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namcodes&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-          </a> 
-          </div>
-          
+  <p align="center">
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=namcodes&langs_count=15&count_private=true&layout=compact&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+<img alt="top language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namcodes&langs_count=20&count_private=true&layout=compact&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0"/>
+</a>
+<a href="[https://github.com/namcodes/github-readme-stats](https://github-readme-stats.vercel.app/api?username=namcodes&langs_count=15&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0)">
+<img alt="Noel Mallari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=namcodes&langs_count=15&show_icons=true&count_private=true&theme=black-ice&hide_border=true&stroke=0000&bg_color=060A0CD0" />
+</a> 
+    <a href="https://github.com/namcodes/github-readme-streak-stats">
+        <img alt="namcodes streak" src="https://github-readme-streak-stats.herokuapp.com/?user=namcodes&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
   <br/>
       
       
@@ -72,6 +70,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/namcodes/github-readme-activity-graph"><img alt="Noel Mallari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=namcodes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/namcodes/github-readme-activity-graph"><img alt="Noel Mallari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=namcodes&bg_color=0D1117&theme=black-ice&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
