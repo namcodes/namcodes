@@ -8,6 +8,7 @@
 </a>
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Nice+to+meet+you...;Open-Source+Developer;Cyber+Security+Researcher;Pinoy+web+%26+mobile+app+Developer)](https://git.io/typing-svg)
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Ultimate School System**
@@ -16,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at **[My Projects Collections](https://facebook.com)**
+<!-- 👨‍💻 All of my projects are available at **[My Projects Collections](https://facebook.com)**-->
 
 - 📫 How to reach me **mallarinoel00@gmail.com**
 
